@@ -18,6 +18,7 @@
  overflow: auto;
  height: 500px;
  padding-bottom: 10px;
+  margin-bottom:20px;
 }
 .eventsup,.boxed-btn3-white{
   color:white;
@@ -25,6 +26,7 @@
   padding:10px 40px;
   border-radius: 6px;
   overflow: auto;
+  margin-bottom:20px;
 }
 .boxed-btn3-white:hover{
   font-size:17px;
